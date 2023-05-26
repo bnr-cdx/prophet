@@ -1,0 +1,2 @@
+SampleID	TotalVariant	EffectiveVariant	SignificantVariant	SamplePvalue	MRDFraction	SampleStatus	DetectLimit
+test	9	9	0	1.000	2.4E-19	Negative	0.051

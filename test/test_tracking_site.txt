@@ -1,0 +1,11 @@
+#only top five column will be used, format like this, no '.' or '-' allowed in column 'REF' or 'ALT'
+#CHROM	POS	ID	REF	ALT
+4	162402231	.	C	G
+1	27099449	.	ATAAGGATCCT	A
+15	48062994	.	G	T
+6	127796811	.	C	T
+7	88965642	.	T	A
+11	46406810	.	G	A
+9	128003012	.	G	A
+11	6260515	.	C	T
+11	102666268	.	G	A
